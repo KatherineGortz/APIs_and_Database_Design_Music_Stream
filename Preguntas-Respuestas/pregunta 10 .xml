@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">cantidad</Data></Cell>
+			<Cell><Data ss:Type="String">artista</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">58</Data></Cell>
+			<Cell><Data ss:Type="String">Taylor Swift</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">56</Data></Cell>
+			<Cell><Data ss:Type="String">Metallica</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">56</Data></Cell>
+			<Cell><Data ss:Type="String">Five Finger Death Punch</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">54</Data></Cell>
+			<Cell><Data ss:Type="String">Bring Me The Horizon</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">53</Data></Cell>
+			<Cell><Data ss:Type="String">DJ Dark</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">49</Data></Cell>
+			<Cell><Data ss:Type="String">Rhye</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">47</Data></Cell>
+			<Cell><Data ss:Type="String">Dean Blunt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">47</Data></Cell>
+			<Cell><Data ss:Type="String">DJ Snake</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">46</Data></Cell>
+			<Cell><Data ss:Type="String">Rammstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">46</Data></Cell>
+			<Cell><Data ss:Type="String">Feid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">44</Data></Cell>
+			<Cell><Data ss:Type="String">Röyksopp</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">44</Data></Cell>
+			<Cell><Data ss:Type="String">Drake</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">43</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Omens</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">42</Data></Cell>
+			<Cell><Data ss:Type="String">Babasonicos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">Architects</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+			<Cell><Data ss:Type="String">Sam Fender</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">39</Data></Cell>
+			<Cell><Data ss:Type="String">Sidhu Moose Wala</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">38</Data></Cell>
+			<Cell><Data ss:Type="String">Volbeat</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">38</Data></Cell>
+			<Cell><Data ss:Type="String">Linkin Park</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">37</Data></Cell>
+			<Cell><Data ss:Type="String">Sleep Token</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+			<Cell><Data ss:Type="String">Bob Moses</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+			<Cell><Data ss:Type="String">Ghost</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+			<Cell><Data ss:Type="String">Anthony Keyrouz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">36</Data></Cell>
+			<Cell><Data ss:Type="String">Powerwolf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">35</Data></Cell>
+			<Cell><Data ss:Type="String">Sabaton</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">35</Data></Cell>
+			<Cell><Data ss:Type="String">Red Hot Chili Peppers</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+			<Cell><Data ss:Type="String">Mägo de Oz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+			<Cell><Data ss:Type="String">Imagine Dragons</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+			<Cell><Data ss:Type="String">Billie Eilish</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">33</Data></Cell>
+			<Cell><Data ss:Type="String">WhoMadeWho</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">33</Data></Cell>
+			<Cell><Data ss:Type="String">Avenged Sevenfold</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+			<Cell><Data ss:Type="String">Black Label Society</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+			<Cell><Data ss:Type="String">Dynazty</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+			<Cell><Data ss:Type="String">Electric Callboy</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+			<Cell><Data ss:Type="String">Rauw Alejandro</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+			<Cell><Data ss:Type="String">Moby</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+			<Cell><Data ss:Type="String">Guns N' Roses</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+			<Cell><Data ss:Type="String">Sultan + Shepard</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+			<Cell><Data ss:Type="String">Jean-Michel Jarre</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+			<Cell><Data ss:Type="String">Motionless In White</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+			<Cell><Data ss:Type="String">Ozzy Osbourne</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+			<Cell><Data ss:Type="String">Ice Nine Kills</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+			<Cell><Data ss:Type="String">MEUTE</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+			<Cell><Data ss:Type="String">I Prevail</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+			<Cell><Data ss:Type="String">Ash</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+			<Cell><Data ss:Type="String">Rezz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+			<Cell><Data ss:Type="String">Macha Y El Bloque Depresivo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+			<Cell><Data ss:Type="String">Bullet For My Valentine</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+			<Cell><Data ss:Type="String">Miss Monique</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+			<Cell><Data ss:Type="String">Marracash</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
