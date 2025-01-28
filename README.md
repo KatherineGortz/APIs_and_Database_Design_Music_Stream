@@ -1,15 +1,36 @@
-# proyecto-da-promo-47-modulo-2-team-1
+# Music Stream
 
+## Descripción del proyecto:
 
-# Limitaciones:
-# Ranking Mundial Oficial:
+La plataforma de streaming MusicStream busca entender mejor las tendencias musicales y mejorar la experiencia de sus usuarios. Este proyecto se enfocará en analizar la popularidad de canciones y álbumes desde el año 2000 hasta la fecha. El análisis se basará en criterios como las calificaciones, el número de reproducciones, las reseñas de los usuarios, etc.
 
-Spotify no ofrece un endpoint directo para obtener rankings oficiales (como los de las playlists "Top Global").
-Puedes simularlo ordenando las canciones por su atributo de popularidad.
-Playlists Curadas:
+El objetivo es identificar las canciones y álbumes más populares en MusicStream, utilizando técnicas de extracción de datos desde diferentes fuentes, como la API de Spotify, y last.fm. Posteriormente, almacenaremos la información en una base de datos y realizaremos consultas para obtener insights clave.
 
-Si necesitas el top oficial, deberías analizar playlists públicas como "Top Hits of 2019" o "Global Top 50". Esto requiere usar el endpoint de playlists para buscar y analizar las canciones dentro de esas listas.
-Restricciones Regionales:
+## Objetivos del proyecto:
 
-La popularidad puede variar entre regiones. Si tienes acceso global (market="from_token"), el atributo popularity refleja un promedio global.
-Este código te permitirá aproximarte bastante a un top mundial basado en los datos disponibles de la API de Spotify.
+- Consolidar los conocimientos de Python y SQL.
+
+- Implementar control de versiones en equipo, usando Git y GitHub.
+
+- Usar Scrum como marco de referencia, aplicando principios ágiles.
+
+- Mejorar la comunicación y presentación de resultados en equipo.
+
+## Contenido del proyecto:
+
+- Código: Incluye el script de Python además de la base de datos en MySQL.
+- Documentación: Contiene el README y los CSV con las consultas (necesarios para realizar los gráficos.
+
+## Limitaciones:
+
+- Spotify no ofrece un endpoint directo para obtener rankings oficiales (como los de las playlists "Top Global"). Si necesitas el top oficial, deberías analizar playlists públicas como "Top Hits of 2019" o "Global Top 50". 
+- Restricciones Regionales: La popularidad puede variar entre regiones.
+- Nos gustaría mejorar los datos a futuro, añadiendo también datos geográficos y el país del artista.
+
+## Equipo:
+- Alba Toro
+- Anto Aguiar
+- Eleonora Soneira
+- Karen Rojas
+- Katie Gortz
+- Rosa Cardoso
