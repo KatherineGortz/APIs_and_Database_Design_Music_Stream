@@ -26,6 +26,7 @@ El objetivo es identificar las canciones y álbumes más populares en MusicStrea
 - Spotify no ofrece un endpoint directo para obtener rankings oficiales (como los de las playlists "Top Global"). Si necesitas el top oficial, deberías analizar playlists públicas como "Top Hits of 2019" o "Global Top 50". 
 - Restricciones Regionales: La popularidad puede variar entre regiones.
 - Nos gustaría mejorar los datos a futuro, añadiendo también datos geográficos y el país del artista.
+- Tuvimos que utilizar un timesleep para que el código no se quedara parado a la hora de sacar los datos (eran demasiados y se bloqueaba).
 
 ## Equipo:
 - Alba Toro
