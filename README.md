@@ -1,4 +1,4 @@
-# Music Stream
+# Music Stream 🎶
 
 ## Descripción del proyecto:
 
@@ -20,6 +20,15 @@ El objetivo es identificar las canciones y álbumes más populares en MusicStrea
 
 - Código: Incluye el script de Python además de la base de datos en MySQL.
 - Documentación: Contiene el README y los CSV con las consultas (necesarios para realizar los gráficos.
+
+## Géneros y años elegidos:
+
+- Pop
+- Rock
+- Metal
+- Electronic
+
+- 2018 al 2022
 
 ## Limitaciones:
 
